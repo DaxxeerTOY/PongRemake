@@ -6,7 +6,7 @@ Yo "ElParentesis" lo único que hice es copiar el código que había en su demo 
 **Demo:**
 _https://elparentesis.github.io/PongRemake/_
 
-[![PongRemake](https://i.imgur.com/Um8KcPm.png)]
+[![PongRemake](https://i.imgur.com/Um8KcPm.png)
 
 # SOLO FUNCIONA EN SERVIDORES
 SI LO INTENTAS ABRRIR EN LOCAL NO FUNCIONA

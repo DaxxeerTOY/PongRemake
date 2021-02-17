@@ -12,5 +12,5 @@ _https://elparentesis.github.io/PongRemake/_
 SI LO INTENTAS ABRRIR EN LOCAL NO FUNCIONA
 
 ## Discord Minecraft
-  - [MineArmy Network](https://discord.gg/6WBZUS2Vb8)
+  - [EternityPlay Network](http://eternityplay.com/discord)
   

@@ -10,7 +10,3 @@ _https://elparentesis.github.io/PongRemake/_
 
 # SOLO FUNCIONA EN SERVIDORES
 SI LO INTENTAS ABRRIR EN LOCAL NO FUNCIONA
-
-## Discord Minecraft
-  - [EternityPlay Network](http://eternityplay.com/discord)
-  
